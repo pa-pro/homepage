@@ -5,8 +5,6 @@ let body = document.querySelector(".body");
 let changeBackgroundButton = document.querySelector(".js-changeBackground");
 let changeHeaderButton = document.querySelector(".js-changeHeader");
 let section__header = document.querySelector(".section__header");
-let newHeader = document.querySelector(".newHeader");
-let newBackground = document.querySelector(".newBackground");
 let themeName1 = document.querySelector(".themeName1");
 let themeName2 = document.querySelector(".themeName2");
 
