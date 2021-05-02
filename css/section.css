@@ -1,0 +1,44 @@
+.section {
+    padding: 15px 0;
+}
+
+.section--centered {
+    text-align: center;
+}
+
+.section__header {
+    color: rgb(31, 105, 89);
+}
+
+.section__subHeader {
+    color: rgb(31, 105, 89);
+}
+
+.section__paragraph {
+    line-height: 1.5;
+}
+
+.section__image {
+    border-radius: 50%;
+    box-shadow: 25px 25px 25px #aaa;
+    width: 200px;
+    height: 200px;
+}
+
+.section__button {
+    font-family: "Lato", sans-serif;
+}
+
+.section__button--changeHeader {
+    padding: 10px 25px ;
+    margin-bottom: 30px; 
+}
+
+.section__button--changeBackground {
+    padding: 10px;
+}
+
+.section__header.newHeader {
+    color: #794848;
+    font-weight: bolder;
+}

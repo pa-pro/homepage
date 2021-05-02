@@ -1,0 +1,25 @@
+.navigation {
+    list-style-type: none;
+    padding-left: 0;
+    padding-bottom: 15px;
+    border-bottom: rgb(31, 105, 89) double 10px;
+    margin-bottom: 0;
+}
+
+.navigation__item {
+    margin: 10px 0;
+}
+
+.navigation__link {
+    text-decoration: none;
+    color: rgb(31, 105, 89);
+}
+
+.navigation__link:hover {
+    font-weight: bolder;
+}
+
+.navigation__link:active {
+    color: rgb(145, 179, 171);
+    font-weight: bolder;
+}
