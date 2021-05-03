@@ -13,7 +13,7 @@ As an aspiring Front-End Developer I have created this interactive homepage as a
 ## Demo
 https://pa-pro.github.io/homepage/
 
-
+![homepage](https://user-images.githubusercontent.com/83086939/116910507-05cde580-ac46-11eb-9803-db00ad868b8c.gif)
 
 ## Technologies
 - HTML 5
