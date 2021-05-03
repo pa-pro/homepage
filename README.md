@@ -1,6 +1,5 @@
 # Homepage
 
-## Description 
 As an aspiring Front-End Developer I have created this interactive homepage as a project for one of the modules of **YouCode Front-End Developer course**, that I'm participating in. 
 
 ## What does the homepage consist of?
